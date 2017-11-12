@@ -24,7 +24,7 @@ This project submission includes following files:
 - <b>model_track2.h5</b> - My NVIDIA EndToEnd model retrained to Track 2 achieving good results upt to 11mph 
 - <b>drive.py</b> - No changes to original drive.py, max speed at 11mph 
 - <b>cloninig.py</b> - Contains my script to create and train the model 
-- <b>retrain.py</b> - Contains my script to load an already trained model and retrain it (whole model) on a new dataset. This code leverages parts of drive.py to load parameters from the command line 
+- <b>retrain_model.py</b> - Contains my script to load an already trained model and retrain it (whole model) on a new dataset. This code leverages parts of drive.py to load parameters from the command line 
 - <b>Behavioral_Cloning_report.md</b> - This is the report to my work you are reading at the moment
 - <b>video.mp4</b> - Video of the autonomous pass of track1 at 20mph for the archive as requested by udacity- all other videos are uploaded to youtube and linked in order to not use unneccessary space on githup 
 
