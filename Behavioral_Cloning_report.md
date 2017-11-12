@@ -85,12 +85,6 @@ First without using any dropout layer or regularizations and then added drop out
 ```
 
 
-      File "<ipython-input-1-d6e076991c66>", line 2
-        print("Using NvidiaEndToEnd")
-        ^
-    IndentationError: unexpected indent
-
-
 
 ## Data collection strategies 
 
